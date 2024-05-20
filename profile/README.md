@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, We are Stephan & Nikita</h1>
-<h3 align="center">A passionate backend developers from Russia</h3>
+<h1 align="center">Hi 👋, We are Stephan, Nikita & Ivan</h1>
+<h3 align="center">Passionate backend developers from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooo-momo&label=Profile%20views&color=020f17&style=flat" alt="ooo-momo" /> </p>
 
